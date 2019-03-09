@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1481892275 source:c:\users\pc\desktop\prolab-2\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	"yazi_islemleri.h"
+
+1481286950 c:\users\pc\desktop\prolab-2\proje\yon_tuslari.h
+
+1482803431 c:\users\pc\desktop\prolab-2\proje\yazi_islemleri.h
+	<string.h>
+	<windows.h>
+
+1481892275 source:c:\users\pc\documents\kodlarim\projeler›m\not_defteri\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	"yazi_islemleri.h"
+
+1482803431 c:\users\pc\documents\kodlarim\projeler›m\not_defteri\proje\yazi_islemleri.h
+	<string.h>
+	<windows.h>
+
+1481892275 source:c:\users\pc\documents\ce\projeler›m\not_defteri\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	"yazi_islemleri.h"
+
+1482803431 c:\users\pc\documents\ce\projeler›m\not_defteri\proje\yazi_islemleri.h
+	<string.h>
+	<windows.h>
+
+1481892275 source:e:\yeni klasˆr\projeler›m\not_defteri\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	"yazi_islemleri.h"
+
+1482803431 e:\yeni klasˆr\projeler›m\not_defteri\proje\yazi_islemleri.h
+	<string.h>
+	<windows.h>
+
+1529234354 source:c:\users\lenovo\desktop\projelerim-20190309t092034z-001\projelerim\not_defteri\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	"yazi_islemleri.h"
+
+1552133427 c:\users\lenovo\desktop\projelerim-20190309t092034z-001\projelerim\not_defteri\proje\yazi_islemleri.h
+	<string.h>
+	<windows.h>
+
